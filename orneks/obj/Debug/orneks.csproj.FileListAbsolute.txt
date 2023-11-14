@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\orneks\orneks\bin\Debug\orneks.exe.config
+C:\Users\legen\source\repos\orneks\orneks\bin\Debug\orneks.exe
+C:\Users\legen\source\repos\orneks\orneks\bin\Debug\orneks.pdb
+C:\Users\legen\source\repos\orneks\orneks\obj\Debug\orneks.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\orneks\orneks\obj\Debug\orneks.Form1.resources
+C:\Users\legen\source\repos\orneks\orneks\obj\Debug\orneks.Properties.Resources.resources
+C:\Users\legen\source\repos\orneks\orneks\obj\Debug\orneks.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\orneks\orneks\obj\Debug\orneks.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\orneks\orneks\obj\Debug\orneks.exe
+C:\Users\legen\source\repos\orneks\orneks\obj\Debug\orneks.pdb
